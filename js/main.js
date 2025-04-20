@@ -4,15 +4,15 @@ const cultures = [
     asal: "Bali",
     steps: [
       {
-        text: "Tari Kecak adalah tarian tradisional dari Bali yang menampilkan puluhan penari laki-laki duduk melingkar sambil menyerukan 'cak'.",
+        text: "Tari Kecak adalah salah satu tarian tradisional paling ikonik dari Bali yang menampilkan puluhan penari laki-laki duduk melingkar dengan ritme vokal 'cak cak cak' yang menghentak. Para penari tidak menggunakan alat musik, melainkan mengandalkan kekompakan suara dan gerakan tubuh untuk menciptakan suasana magis dan penuh semangat. Tarian ini sering dipentaskan menjelang senja di tempat terbuka, menciptakan pengalaman budaya yang mendalam bagi penonton.",
         image: "https://images.unsplash.com/photo-1511164657592-59a452023479?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       {
-        text: "Tarian ini berasal dari tradisi Sanghyang dan berkembang pada tahun 1930-an sebagai bentuk teater Ramayana.",
+        text: "Tarian ini berasal dari tradisi sakral Sanghyang, di mana penari berada dalam kondisi trans dan diyakini dirasuki roh. Pada tahun 1930-an, tari ini berkembang menjadi pertunjukan seni modern yang menggabungkan kisah Ramayana. Versi modern ini menghapus unsur trans, namun tetap mempertahankan aura mistis dan spiritual yang kuat melalui gerakan dan vokalisasi para penari.",
         image: "https://images.unsplash.com/photo-1702318192103-30ce1a291c53?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       {
-        text: "Tari ini menggambarkan pertarungan antara Rama dan Rahwana, dengan suasana mistis dan irama vokal yang khas.",
+        text: "Dalam pementasan, Tari Kecak biasanya menggambarkan kisah pertempuran antara Rama dan Rahwana, bagian dari epos Ramayana. Penggunaan cahaya obor, ekspresi wajah, dan harmonisasi suara menjadikan pertunjukan ini dramatis dan menyentuh. Penonton diajak merasakan ketegangan dan keindahan kisah yang disampaikan tanpa dialog verbal, hanya dengan gerak dan suara yang menggema.",
         image: "https://images.unsplash.com/photo-1675956000201-5c42a62edf35?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     ],
@@ -24,15 +24,15 @@ const cultures = [
     asal: "Jawa Tengah",
     steps: [
       {
-        text: "Wayang Kulit adalah pertunjukan boneka kulit tradisional yang digunakan untuk menceritakan kisah epik Hindu.",
+        text: "Wayang Kulit adalah seni pertunjukan tradisional dari Jawa yang menggunakan boneka kulit datar dan dimainkan di balik layar putih yang diterangi lampu. Pertunjukan ini tidak hanya menjadi hiburan rakyat, tetapi juga menjadi media penyampai nilai-nilai moral, spiritual, dan filosofis yang dalam, terutama dari cerita Mahabharata dan Ramayana.",
         image: "assets/image/wayang.jpg"
       },
       {
-        text: "Pertunjukan ini menggunakan layar putih dan lampu di belakangnya, menciptakan bayangan wayang di layar.",
+        text: "Dalam pertunjukan, layar putih disebut kelir dan lampu disebut blencong. Cahaya dari blencong memproyeksikan bayangan wayang ke kelir, menciptakan visual dramatis yang memukau. Penonton melihat bayangan karakter sambil mendengarkan kisah yang disuarakan oleh dalang, tokoh utama di balik panggung.",
         image: "https://jarwadi.me/wp-content/uploads/2012/06/dsc02484swk.jpg"
       },
       {
-        text: "Dalang memainkan semua karakter, menyuarakan dialog, dan mengatur gamelan yang mengiringi.",
+        text: "Dalang adalah sosok sentral dalam pertunjukan, memainkan semua tokoh, mengatur alur cerita, sekaligus mengendalikan alunan musik gamelan. Dalang harus menguasai seni vokal, filosofi, dan gerak wayang dengan baik, sehingga pertunjukan bisa berjalan lancar dan bermakna. Wayang Kulit telah diakui UNESCO sebagai Warisan Budaya Tak Benda dunia.",
         image: "https://images.unsplash.com/photo-1620409123739-3849e65df57a?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       }
     ],
@@ -44,15 +44,15 @@ const cultures = [
     asal: "Sumatera Barat",
     steps: [
       {
-        text: "Rumah Gadang adalah rumah adat suku Minangkabau yang atapnya menyerupai tanduk kerbau.",
+        text: "Rumah Gadang adalah rumah adat suku Minangkabau di Sumatera Barat yang mudah dikenali dari atapnya yang runcing menyerupai tanduk kerbau. Rumah ini bukan hanya tempat tinggal, tetapi juga simbol identitas sosial, status keluarga, dan warisan leluhur yang dilestarikan secara turun-temurun.",
         image: "assets/image/gadang.jpg"
       },
       {
-        text: "Rumah ini mencerminkan sistem kekerabatan matrilineal dan digunakan untuk berbagai acara adat.",
+        text: "Rumah ini mencerminkan sistem kekerabatan matrilineal yang dianut masyarakat Minang. Artinya, garis keturunan ditarik dari pihak ibu, dan rumah diwariskan kepada anak perempuan. Fungsi rumah pun beragam, dari tempat tinggal hingga lokasi pelaksanaan adat, musyawarah, dan acara keluarga besar.",
         image: "https://plus.unsplash.com/premium_photo-1673283243936-57acf471fc0e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       },
       {
-        text: "Tiap bagian rumah punya filosofi yang mendalam, dari jumlah ruang hingga ukiran kayunya.",
+        text: "Tiap bagian rumah memiliki filosofi, mulai dari jumlah ruang, arah bangunan, hingga ukiran kayu yang kaya makna. Ukiran tersebut biasanya menggambarkan tumbuhan atau binatang dengan makna kehidupan, keuletan, dan kebijaksanaan. Rumah Gadang adalah contoh bagaimana arsitektur dan budaya berpadu secara harmonis.",
         image: "https://responradio.com/wp-content/uploads/2023/12/Mengungkap-Keunikan-dan-Asal-Usul-Rumah-Gadang.jpg"
       }
     ],
@@ -64,15 +64,15 @@ const cultures = [
     asal: "Nusa Tenggara Timur",
     steps: [
       {
-        text: "Tenun ikat Sumba adalah kain tradisional khas NTT yang dibuat dengan teknik pewarnaan benang sebelum ditenun.",
+        text: "Tenun Ikat Sumba adalah kain tradisional khas Nusa Tenggara Timur yang dibuat dengan teknik pewarnaan benang sebelum ditenun. Proses ini sangat unik dan kompleks karena motif dibuat terlebih dahulu dengan mengikat dan mewarnai benang secara bertahap sesuai desain yang diinginkan.",
         image: "https://cdn.shopify.com/s/files/1/0428/0965/5452/files/tenun_2.jpg?v=1691991176"
       },
       {
-        text: "Prosesnya memakan waktu lama karena benang-benang diikat dan dicelup berulang kali agar motif terbentuk sempurna.",
+        text: "Proses pembuatan kain ini bisa memakan waktu berminggu-minggu hingga berbulan-bulan. Benang diikat dengan tali serat alam agar sebagian tidak terkena warna saat dicelup. Proses ini diulang untuk menciptakan pola yang rumit, menunjukkan keahlian dan ketelatenan penenun yang luar biasa.",
         image: "https://asset.kompas.com/crops/GGN6TBuc5k9takrEILJke_sx3H8=/0x0:1000x667/1200x800/data/photo/2018/05/30/822670728.jpg"
       },
       {
-        text: "Motif tenun Sumba biasanya menggambarkan simbol alam, hewan, atau warisan leluhur dan digunakan dalam upacara adat.",
+        text: "Motif Tenun Sumba sangat kaya simbol, mencerminkan hubungan manusia dengan alam, leluhur, dan nilai-nilai spiritual. Kain ini biasa digunakan dalam upacara adat, seperti pernikahan atau kematian, dan menjadi simbol status sosial. Warna dan coraknya yang khas menjadikan kain ini sangat bernilai secara budaya maupun ekonomi.",
         image: "https://cdn.shopify.com/s/files/1/0428/0965/5452/files/tenun_3.jpg?v=1691991205"
       }
     ],
@@ -80,6 +80,8 @@ const cultures = [
     provinsi: "Nusa Tenggara Timur"
   }
 ];
+
+
 
 // Group cultures by province
 const groupedByProvince = cultures.reduce((groups, culture) => {
